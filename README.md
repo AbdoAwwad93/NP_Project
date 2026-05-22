@@ -123,9 +123,3 @@ The Windows Forms application will open.
 **"Permission denied"**
 - Ensure you have write permissions in the output directory
 
-## Author
-Created for Intelligent Systems Course - Practical Project
-FCI - Cairo University
-
-## License
-Educational project - for learning purposes only
